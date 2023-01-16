@@ -28,7 +28,7 @@ sudo docker ps -a
 sudo docker stop <contianer-id>
 ```
 
-### image-1 goes here
+![clouseau-search-plugin-enabled-couchdb](images/clouseau-search-plugin-enabled-couchdb.jpg)
 
 ### Question. How to setup coouchDb in cluster mode to support Full Text Search 
 Are you sure cluster mode is required to support it, Do you have any official documentation link from couchdb site.
